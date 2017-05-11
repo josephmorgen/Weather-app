@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AiryCoolWeather</string>
+    <string name="forecast">未来三天预报</string>
+    <string name="aqi">空气质量</string>
+</resources>
